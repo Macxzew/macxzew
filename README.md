@@ -3,9 +3,9 @@
 │  F E D E R A L   R E P U B L I C   O F   B I N A R Y               │
 ├────────────────────────────────────────────────────────────────────┤
 │       _nnnn_                                                       │
-│      dGGGGMMb            NAME: MACXZE                              │
-│     @p~qp~~qMb           DoB: 2001-04-15                           │
-│     M|@||@) M|           Expires On: 2035-04-15                    │
+│      dGGGGMMb            NAME: MACXZEW                             │
+│     @p~qp~~qMb           DoB: 200#-0#-#0                           │
+│     M|@||@) M|           Expires On: 20##-0#-0#                    │
 │     @,----.JM|           Nationality: FRANCE                       │
 │    JS^\__/  qKL          Role: Sysadmin • Network • Security       │
 │   dZP        qKRb        ID Number: 8##2 99#2 ##77 #3## 5#04       │
